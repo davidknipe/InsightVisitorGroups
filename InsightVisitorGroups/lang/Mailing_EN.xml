@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<languages>
+  <language name="English" id="en">
+    <enums>
+      <insightvisitorgroups>
+        <criterion>
+          <mailingcondition>
+            <received>Received</received>
+            <opened>Opened</opened>
+            <clicked>Clicked</clicked>
+          </mailingcondition>
+        </criterion>
+      </insightvisitorgroups>
+    </enums>
+  </language>
+</languages>
+
+
+<!--/enums/insightvisitorgroups/criterion/mailingcondition/received' for 'English']-->
